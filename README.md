@@ -89,9 +89,9 @@ Location: Мухосранск • Available for: contracting/open-source collab
 ---
 
 ## Сертификаты и достижения
-- Certified Kubernetes Administrator (CKA) — 2024
-- Google Cloud: Professional Cloud Architect — 2023
-- Speaker: JSConf, React Summit (2022, 2024)
+- Certified Kubernetes Administrator (CKA) — 0000
+- Google Cloud: Professional Cloud Architect — 0000
+- Speaker: JSConf, React Summit (0000, 0000)
 
 ---
 
@@ -121,54 +121,3 @@ Location: Мухосранск • Available for: contracting/open-source collab
 - Maintainer: project-b (components), project-c (infra)
 - Регулярные PR: security fixes, performance improvements
 - Issues triage: active — метки: good-first-issue, help-wanted
-
----
-
-## GitHub Actions: расширенный workflow для метрик + README update
-Сохраните как .github/workflows/update-metrics.yml — workflow собирает статистику (stars, commits, langs), обновляет таблицы и картинку с KPI, коммитит README.
-
-```yaml
-name: Update README Metrics
-
-on:
-  schedule:
-    - cron: '0 8 \* \* \*' # ежедневно 08:00 UTC
-  workflow\_dispatch:
-
-permissions:
-  contents: write
-  id-token: write
-
-jobs:
-  fetch-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-
-      - name: Install deps
-        run: npm ci
-        working-directory: .
-
-      - name: Gather GitHub stats
-        env:
-          GITHUB\_TOKEN: \${{ secrets.GITHUB\_TOKEN }}
-        run: |
-          # Примерный псевдо-скрипт: собирает stars, forks, commits (можно заменить на реальную утилиту)
-          node ./scripts/gather-stats.js > metrics.json
-
-      - name: Update README with metrics
-        run: |
-          node ./scripts/update-readme.js metrics.json README.md
-
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md metrics.json || true
-          git commit -m "chore: update metrics (automated)" || echo "No changes to commit"
-          git push
