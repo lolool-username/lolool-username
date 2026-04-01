@@ -1,27 +1,21 @@
-<!--
-  README для профиля GitHub — дизайнерский, метрик-насыщенный.
-  Сохраните как README.md в репозитории username/username.
-  Замените ВСЕ плейсхолдеры (ВОТ_ТВОЕ_ИМЯ, ВАШ_EMAIL и т.д.).
--->
-
 <!-- Typing SVG (анимация в начале) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A84FF&width=800&lines=Привет,+я+ВОТ_ТВОЕ_ИМЯ;Engineer+×+Designer;I+build+things+that+scale" alt="typing" />
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+1;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+2;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+3;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+4;%D0%90%D1%85%D1%80%D0%B5%D0%BD%D0%B5%D1%82%D1%8C+%D1%82%D1%8B+%D0%B4%D0%BE%D0%B6%D0%B4%D0%B0%D0%BB%D1%81%D1%8F;%D0%94%D0%B0%D0%BB%D1%8C%D1%88%D0%B5+%D0%B2%D1%81%D1%91+%D0%BF%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9)](https://git.io/typing-svg) />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ВОТ_ТВОЙ_ЮЗЕР/ВОТ_ТВОЙ_ЮЗЕР/main/header-bg.png" alt="header" style="width:100%;max-height:200px;object-fit:cover;border-radius:10px" />
+  <img src="https://raw.githubusercontent.com/lolool-username/lolool-username/main/header-bg.png" alt="header" style="width:100%;max-height:200px;object-fit:cover;border-radius:10px" />
 </p>
 
-# ВОТ_ТВОЕ_ИМЯ — кратко о главном
+# lolool-username — кратко о главном
 Full‑stack Engineer • Design-minded • Open-source maintainer  
-Location: ВАШ_ГОРОД • Available for: contracting/open-source collaboration
+Location: Мухосранск • Available for: contracting/open-source collaboration
 
 <p align="center">
-  <a href="https://github.com/ВОТ_ТВОЙ_ЮЗЕР"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ВОТ_ТВОЙ_ЮЗЕР?style=social"></a>
-  <img alt="Top Langs" src="https://img.shields.io/github/languages/top/ВОТ_ТВОЙ_ЮЗЕР/ВОТ_ТВОЙ_ЮЗЕР?color=blue">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ВОТ_ТВОЙ_ЮЗЕР&color=blue">
-  <a href="https://github.com/ВОТ_ТВОЙ_ЮЗЕР?tab=repositories"><img alt="Pinned" src="https://img.shields.io/badge/pinned-repos-0C7ED8"></a>
+  <a href="https://github.com/lolool-username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/lolool-username?style=social"></a>
+  <img alt="Top Langs" src="https://img.shields.io/github/languages/top/lolool-username/lolool-username?color=blue">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lolool-username&color=blue">
+  <a href="https://github.com/lolool-username?tab=repositories"><img alt="Pinned" src="https://img.shields.io/badge/pinned-repos-0C7ED8"></a>
 </p>
 
 ---
@@ -35,34 +29,34 @@ Location: ВАШ_ГОРОД • Available for: contracting/open-source collabora
 
 ## Быстрые ссылки
 - Email: your.name@example.com
-- LinkedIn: https://www.linkedin.com/in/ВОТ_ТВОЙ_LINKEDIN
-- Telegram: @ВОТ_ТВОЙ_ТЕЛЕГРАМ
-- Portfolio: https://ВОТ_ТВОЙ_ПОРТФОЛИО
+- LinkedIn: https://www.linkedin.com/in/LINKEDIN_чтоб_было
+- Telegram: @не дам
+- Portfolio: https://нафига.руфус
 
 ---
 
 ## Метрики и активность (живые/статичные блоки)
 <p align="center">
   <!-- Секции: общий прогресс, синтетические KPI -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ВОТ_ТВОЙ_ЮЗЕР&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВОТ_ТВОЙ_ЮЗЕР&layout=compact&theme=vision-friendly-dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lolool-username&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolool-username&layout=compact&theme=vision-friendly-dark" alt="top-langs" />
 </p>
 
 ### Расширенные KPI
 | Метрика | Значение | Примечание |
 |---|---:|---|
-| Репозитории | 42 | публичные |
-| Коммиты (12 мес) | 1,234 | автосбор через Actions |
-| PR (merged) | 128 | открытый вклад в OSS |
-| Issues opened | 76 | баги + фичи |
-| Stars across repos | 3,210 | суммарно |
-| Days streak | 56 | GitHub streak (последнее обновление) |
+| Репозитории | 0 | публичные |
+| Коммиты (12 мес) | 0 | автосбор через Actions |
+| PR (merged) | 0 | открытый вклад в OSS |
+| Issues opened | 0 | баги + фичи |
+| Stars across repos | 0 | суммарно |
+| Days streak | 0 | GitHub streak (последнее обновление) |
 
 ---
 
 ## Графики активности
 <p align="center">
-  <img alt="contrib-calendar" src="https://activity-graph.herokuapp.com/graph?username=ВОТ_ТВОЙ_ЮЗЕР&theme=react-dark&hide_border=true" />
+  <img alt="contrib-calendar" src="https://activity-graph.herokuapp.com/graph?username=lolool-username&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -81,19 +75,19 @@ Location: ВАШ_ГОРОД • Available for: contracting/open-source collabora
 ### Project A — SaaS Platform (prod)
 - Технологии: Next.js, GraphQL, PostgreSQL, Redis, K8s
 - Highlights: multi-tenant, realtime, 99.95% uptime
-- Repo: https://github.com/ВОТ_ТВОЙ_ЮЗЕР/project-a
+- Repo: https://github.com/lolool-username/project-a
 - Demo: https://app.project-a.com
 
 ### Project B — UI Component Library
 - Технологии: TypeScript, Storybook, Rollup
 - Highlights: accessible components, theming system
-- Repo: https://github.com/ВОТ_ТВОЙ_ЮЗЕР/project-b
+- Repo: https://github.com/lolool-username/project-b
 - NPM: https://www.npmjs.com/package/project-b
 
 ### Project C — Infra-as-Code Kit
 - Технологии: Terraform, Terragrunt, GitHub Actions
 - Highlights: multi-env, policy-as-code
-- Repo: https://github.com/ВОТ_ТВОЙ_ЮЗЕР/project-c
+- Repo: https://github.com/lolool-username/project-c
 
 ---
 
