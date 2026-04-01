@@ -1,11 +1,8 @@
 <!-- Typing SVG (анимация в начале) -->
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+1;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+2;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+3;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+4;%D0%90%D1%85%D1%80%D0%B5%D0%BD%D0%B5%D1%82%D1%8C+%D1%82%D1%8B+%D0%B4%D0%BE%D0%B6%D0%B4%D0%B0%D0%BB%D1%81%D1%8F;%D0%94%D0%B0%D0%BB%D1%8C%D1%88%D0%B5+%D0%B2%D1%81%D1%91+%D0%BF%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9)](https://git.io/typing-svg) />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+1;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+2;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+3;%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%80%D0%B0%D0%BD%D1%8C+4;%D0%90%D1%85%D1%80%D0%B5%D0%BD%D0%B5%D1%82%D1%8C+%D1%82%D1%8B+%D0%B4%D0%BE%D0%B6%D0%B4%D0%B0%D0%BB%D1%81%D1%8F;%D0%94%D0%B0%D0%BB%D1%8C%D1%88%D0%B5+%D0%B2%D1%81%D1%91+%D0%BF%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9" alt="Срань красивая" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lolool-username/lolool-username/main/header-bg.png" alt="header" style="width:100%;max-height:200px;object-fit:cover;border-radius:10px" />
-</p>
 
 # lolool-username — кратко о главном
 Full‑stack Engineer • Design-minded • Open-source maintainer  
